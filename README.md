@@ -119,7 +119,13 @@ pm2 start server.js --name pixelops
 pm2 save
 ```
 4. Use Nginx to serve index.html and proxy /api to Node
-
+✅ What's Connected to MySQL
+🔐 Player login — name stored in players table on first visit
+🏆 Best score, kills, wave, games played — all saved after each game
+↺ Reset Score button — wipes all history with confirmation popup
+📊 Leaderboard — live Top 10 from database
+💾 Auto-save — score saves automatically on game over
+👤 Player stats bar — shows your name + live DB stats at top
 ---
 
 Built with ❤️ by @techwithburhan
