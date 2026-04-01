@@ -2,8 +2,9 @@
 ### Full Stack Setup Guide — @techwithburhan
 
 ---
-<img width="1920" height="851" alt="image" src="https://github.com/user-attachments/assets/8415df20-3bbf-4bd6-8acc-83441f30404e" />
+<img width="1920" height="991" alt="image" src="https://github.com/user-attachments/assets/1884bd79-6eff-409d-ba45-37c84070473e" />
 
+<img width="1920" height="851" alt="image" src="https://github.com/user-attachments/assets/8415df20-3bbf-4bd6-8acc-83441f30404e" />
 ---
 
 ## 📁 PROJECT STRUCTURE
